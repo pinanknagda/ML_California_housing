@@ -1,6 +1,7 @@
 California Housing Price Prediction 🏠
 
 A machine learning project that predicts housing prices in California using various ML algorithms, with Support Vector Regression (SVR) emerging as the champion!
+
 Project Overview
 This project analyzes California housing data to predict median house values. The dataset includes features like:
 Location (latitude, longitude)
